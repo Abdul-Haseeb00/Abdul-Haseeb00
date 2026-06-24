@@ -14,20 +14,50 @@
 
 <br/>
 
+### 💫 About Me
+
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### 💫 About Me
+<table width="100%">
+<tr><td>
 
-```yaml
-current_focus: "Full-stack MERN apps — file-sharing & e-commerce platforms"
-collaborating_on: "Open-source, React.js & MERN projects, real-world problem solving"
-seeking_help_with: "System design, scalable backend architecture, DevOps, industry experience"
-currently_learning: "Advanced React patterns, Node.js, MongoDB optimization, networking, system design"
-ask_me_about: "React.js, JavaScript, MERN Stack, REST APIs, MongoDB, frontend architecture"
-fun_fact: "Started with pure curiosity — still chasing the 'how does this actually work' itch, from React internals to network packets."
-```
+🔭&nbsp;&nbsp;**Currently working on**
+<br/><sub>Full-stack MERN apps — file-sharing & e-commerce platforms</sub>
+
+</td></tr>
+<tr><td>
+
+👯&nbsp;&nbsp;**Looking to collaborate on**
+<br/><sub>Open-source, React.js & MERN projects, real-world problem solving</sub>
+
+</td></tr>
+<tr><td>
+
+🤝&nbsp;&nbsp;**Looking for help with**
+<br/><sub>System design, scalable backend architecture, DevOps, industry experience</sub>
+
+</td></tr>
+<tr><td>
+
+🌱&nbsp;&nbsp;**Currently learning**
+<br/><sub>Advanced React patterns, Node.js, MongoDB optimization, networking, system design</sub>
+
+</td></tr>
+<tr><td>
+
+💬&nbsp;&nbsp;**Ask me about**
+<br/><sub>React.js, JavaScript, MERN Stack, REST APIs, MongoDB, frontend architecture</sub>
+
+</td></tr>
+<tr><td>
+
+⚡&nbsp;&nbsp;**Fun fact**
+<br/><sub>Started with pure curiosity — still chasing the "how does this actually work" itch, from React internals to network packets.</sub>
+
+</td></tr>
+</table>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -37,6 +67,32 @@ fun_fact: "Started with pure curiosity — still chasing the 'how does this actu
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🧠 Open for a quick personality readout</b></summary>
+<br/>
+
+```text
+> whoami
+
+Frontend-leaning full-stack dev. Pixel-detail obsessed.
+Ships UI polish other people skip. Debugs at 1am
+out of pure stubbornness, not deadlines.
+
+> cat priorities.txt
+
+[1] Make it work
+[2] Make it scale
+[3] Make it actually look good   <- this one matters most
+
+> status
+
+System design     [in progress]
+Backend scaling   [in progress]
+React mastery     [ongoing, always]
+```
+
+</details>
 
 <br/>
 
@@ -160,7 +216,7 @@ fun_fact: "Started with pure curiosity — still chasing the 'how does this actu
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul-Haseeb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-haseeb-2ab8a12a2)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/h_a_s_e_eb)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdul.haseeb.officee@gmail.com)
 
