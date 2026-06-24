@@ -38,12 +38,7 @@ React.js, JavaScript, MERN Stack development, REST APIs, MongoDB, frontend devel
 I started my journey with curiosity and self-learning, and I'm constantly exploring everything from web development to computer networking because I love understanding how technology works behind the scenes.
 
 </td>
-<td width="45%" valign="top" align="center">
 
-<br/>
-<img src="https://github-readme-stats.shion.dev/api?username=Abdul-Haseeb00&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</td>
 </tr>
 </table>
 
