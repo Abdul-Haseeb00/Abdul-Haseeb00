@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdul+Haseeb+%F0%9F%91%8B;Frontend+Developer+%7C+MERN+Stack;React.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+real-world+full-stack+apps" alt="Typing SVG" />
 
 <br/>
@@ -12,87 +11,54 @@
 
 </div>
 
-<br/>
+---
 
 ### 💫 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-<table width="100%">
-<tr><td>
+🔭 **I'm currently working on**
+Building full-stack MERN applications and improving my frontend development skills through real-world projects, including file-sharing and e-commerce web applications.
 
-🔭&nbsp;&nbsp;**Currently working on**
-<br/><sub>Full-stack MERN apps — file-sharing & e-commerce platforms</sub>
+👯 **I'm looking to collaborate on**
+Open-source projects, React.js applications, MERN stack projects, and innovative solutions that solve real-world problems.
 
-</td></tr>
-<tr><td>
+🤝 **I'm looking for help with**
+Advanced system design, scalable backend architectures, DevOps practices, and opportunities to gain industry-level development experience.
 
-👯&nbsp;&nbsp;**Looking to collaborate on**
-<br/><sub>Open-source, React.js & MERN projects, real-world problem solving</sub>
+🌱 **I'm currently learning**
+Advanced React patterns, Node.js, MongoDB optimization, networking fundamentals, system design, and modern web development best practices.
 
-</td></tr>
-<tr><td>
+💬 **Ask me about**
+React.js, JavaScript, MERN Stack development, REST APIs, MongoDB, frontend development, networking concepts, and web application architecture.
 
-🤝&nbsp;&nbsp;**Looking for help with**
-<br/><sub>System design, scalable backend architecture, DevOps, industry experience</sub>
-
-</td></tr>
-<tr><td>
-
-🌱&nbsp;&nbsp;**Currently learning**
-<br/><sub>Advanced React patterns, Node.js, MongoDB optimization, networking, system design</sub>
-
-</td></tr>
-<tr><td>
-
-💬&nbsp;&nbsp;**Ask me about**
-<br/><sub>React.js, JavaScript, MERN Stack, REST APIs, MongoDB, frontend architecture</sub>
-
-</td></tr>
-<tr><td>
-
-⚡&nbsp;&nbsp;**Fun fact**
-<br/><sub>Started with pure curiosity — still chasing the "how does this actually work" itch, from React internals to network packets.</sub>
-
-</td></tr>
-</table>
+⚡ **Fun fact**
+I started my journey with curiosity and self-learning, and I'm constantly exploring everything from web development to computer networking because I love understanding how technology works behind the scenes.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
+<br/>
 <img src="https://github-readme-stats.shion.dev/api?username=Abdul-Haseeb00&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🧠 Open for a quick personality readout</b></summary>
 <br/>
 
-```text
-> whoami
+### 🎯 Engineering Trajectory & Focus Goals
 
-Frontend-leaning full-stack dev. Pixel-detail obsessed.
-Ships UI polish other people skip. Debugs at 1am
-out of pure stubbornness, not deadlines.
+<blockquote>
+<b>🎓 Software Engineering & MERN Stack Domain</b><br/>
+As an engineering professional, my core methodology focuses on bridging high-fidelity client interactions with highly performant, scalable server architecture. I look beyond the layer of basic implementation to understand structural optimization and protocol behaviors.
+</blockquote>
 
-> cat priorities.txt
-
-[1] Make it work
-[2] Make it scale
-[3] Make it actually look good   <- this one matters most
-
-> status
-
-System design     [in progress]
-Backend scaling   [in progress]
-React mastery     [ongoing, always]
-```
-
-</details>
+* **⚡ Core Architectural Focus:** Writing predictable UI, design tokens, modular component patterns, and atomic React workflows.
+* **🌐 Infrastructure & Systems:** Studying low-level systems communication profiles, optimal database indexing schemes, and request lifecycle distribution metrics.
+* **⚙️ Current Technical Targets:** Transforming standard "working deployments" into production-grade, highly cohesive web infrastructures.
 
 <br/>
 
@@ -194,19 +160,6 @@ React mastery     [ongoing, always]
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdul-Haseeb00&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🌱 What I'm Currently Exploring</b></summary>
-<br/>
-
-- 🔭 Advanced React patterns (compound components, custom hooks at scale)
-- ⚙️ Node.js & MongoDB performance optimization
-- 🌐 Networking fundamentals — TCP/UDP, ICMP, real-world protocol behavior
-- 🏗️ System design — moving from "it works" to "it scales"
 
 </details>
 
